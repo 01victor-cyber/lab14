@@ -6,7 +6,12 @@ Tic-Tac-Toe, Battleship, and Game of Life.
 ## How to run
 
 TODO: the commands to build, run, and test the project.
+# Game Collection
 
+## How to Run
+To run the game collection menu:
+```bash
+cargo run
 ## The games
 
 TODO: one sentence of rules for each game, in menu order.
